@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/2tpbhn53a948moxi/branch/master?svg=true)](https://ci.appveyor.com/project/Oleg-OMON/ahj-dnd/branch/master)
